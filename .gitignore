@@ -142,6 +142,6 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-
+src/gguf/
 src/gguf/*
 !src/gguf/.gitkeep
